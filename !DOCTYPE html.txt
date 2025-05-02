@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Your Name | Thumbnail & Video Editor</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background-color: #111;
+      color: #f0f0f0;
+    }
+    header {
+      background: #1e1e1e;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.5em;
+      margin: 0;
+    }
+    header p {
+      font-size: 1.2em;
+      color: #ccc;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .services, .portfolio, .contact, .about, .testimonials {
+      margin-bottom: 60px;
+    }
+    h2 {
+      color: #ffca28;
+      border-bottom: 2px solid #444;
+      padding-bottom: 10px;
+    }
+    .portfolio img {
+      width: 100%;
+      max-width: 300px;
+      margin: 10px;
+      border: 2px solid #444;
+    }
+    .portfolio-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      justify-content: center;
+    }
+    a {
+      color: #ffca28;
+      text-decoration: none;
+    }
+    .contact p {
+      font-size: 1.1em;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #1e1e1e;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Your Name</h1>
+    <p>Thumbnail Designer & Video Editor | Helping Creators Stand Out</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>I’m a creative content designer who specializes in crafting eye-catching YouTube thumbnails and editing high-retention videos for creators in all niches. From motivational reels to gaming montages, I bring a scroll-stopping touch to every project.</p>
+  </section>
+
+  <section class="services">
+    <h2>Services</h2>
+    <ul>
+      <li>YouTube Thumbnail Design (CTR-focused, niche-aligned)</li>
+      <li>Video Editing (Shorts, Reels, Full-Length Videos)</li>
+      <li>Channel Branding & Visual Identity</li>
+      <li>Custom Thumbnail Template Packs</li>
+    </ul>
+  </section>
+
+  <section class="portfolio">
+    <h2>Portfolio</h2>
+    <div class="portfolio-grid">
+      <img src="your-thumbnail1.jpg" alt="Thumbnail 1" />
+      <img src="your-thumbnail2.jpg" alt="Thumbnail 2" />
+      <img src="your-thumbnail3.jpg" alt="Thumbnail 3" />
+      <!-- Add more as needed -->
+    </div>
+    <p>Video Edits:
+      <br />
+      <a href="#">Motivational Short</a> | <a href="#">Gaming Montage</a> | <a href="#">Reaction Video</a>
+    </p>
+  </section>
+
+  <section class="testimonials">
+    <h2>Testimonials</h2>
+    <p>"Your thumbnails changed my channel’s performance — my CTR jumped from 3.5% to 6%! Thanks again!" – Raj, YouTuber</p>
+  </section>
+
+  <section class="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:yourname@email.com">yourname@email.com</a></p>
+    <p>Instagram: <a href="https://instagram.com/yourhandle">@yourhandle</a></p>
+    <p>Fiverr: <a href="https://fiverr.com/yourfiverr">fiverr.com/yourfiverr</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Your Name. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
